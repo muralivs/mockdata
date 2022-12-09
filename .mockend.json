@@ -4,7 +4,10 @@
       "regexp": "[A-Z][a-z]{5,10}"
     },
     "department": {
-      "string": {}
+      "string": [
+      "SNT",
+      "MV Dept"
+    ]
     },
     "status": {
       "boolean": {}
