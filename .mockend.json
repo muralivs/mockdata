@@ -10,7 +10,10 @@
       "boolean": {}
     },
     "registration_date": {
-      "dateTime": {}
+      "dateTime": {
+        "min": "2021-01-01T00:00:00Z",
+        "max": "2022-12-31T23:59:59Z"
+      }
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
